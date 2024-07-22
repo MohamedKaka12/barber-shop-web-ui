@@ -1138,17 +1138,18 @@ select.form-control:not([size]):not([multiple]) {
   padding: 15px;
 }
 .team_section .team_members .team_member {
-  position: relative;
+  position:relative;
   overflow: hidden;
   display: block;
-  margin-left: auto;
+  margin-left:430px;
   margin-right: auto;
   width: 100%;
+  
    
 }
 .team_section .team_members .team_member img {
   width: 100%;
-  
+
 }
 .team_section .team_members .team_member .overlay {
   background-color: #fed40377;
@@ -1251,7 +1252,9 @@ select.form-control:not([size]):not([multiple]) {
   padding: 10px 15px;
   color: black;
   margin: 0 0 20px;
+  border-radius: 5px;
 }
+
 .pricing_section .price_wrap .price_list {
 }
 .pricing_section .price_wrap .price_list li {
