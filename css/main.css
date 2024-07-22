@@ -95,18 +95,18 @@ a:focus {
 }
 ::-webkit-scrollbar-thumb {
   cursor: pointer;
-  background: #9e8a78;
+  background: #fed403;
 }
 ::selection {
-  background-color: #9e8a78;
+  background-color: #fed403;
   color: #fff;
 }
 -webkit-::selection {
-  background-color: #9e8a78;
+  background-color: #fed403;
   color: #fff;
 }
 ::-moz-selection {
-  background-color: #9e8a78;
+  background-color: #fed403;
   color: #fff;
 }
 input::-webkit-input-placeholder,
