@@ -494,8 +494,8 @@ button {
   transition: color 0.3s ease 0s, padding 0.3s ease 0s;
 }
 #mainmenu li > ul > li:hover a {
-  background-color: #9e8a78;
-  color: #fff;
+  background-color: #fed403;
+  color: black;
 }
 #mainmenu li > ul ul {
   background-color: #fff;
@@ -560,6 +560,8 @@ ul.nav > li > a.active {
 .menu-btn {
   margin-left: 10px;
   margin-top: 10px;
+  background-color: #fed403;
+  color: black;
 }
 .header-btn {
   margin-left: 10px;
@@ -2048,7 +2050,9 @@ blockquote span {
   color: #fed403;
 }
 .page_header {
-  background-image: url(../img/page-header.jpg);
+  background-image: url(../img/aboutustop.jpg);
+  
+  
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
