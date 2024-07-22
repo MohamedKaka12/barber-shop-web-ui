@@ -1141,7 +1141,7 @@ select.form-control:not([size]):not([multiple]) {
   position:relative;
   overflow: hidden;
   display: block;
-  margin-left:430px;
+  margin-left:auto;
   margin-right: auto;
   width: 100%;
   
