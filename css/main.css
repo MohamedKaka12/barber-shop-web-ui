@@ -1189,10 +1189,10 @@ select.form-control:not([size]):not([multiple]) {
 .testimonial_section {
   background-image: url(../img/cta3.jpg) ; 
   background-color: #222227;
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 0 0;
-  -webkit-background-size: cover;
+  -webkit-background-size: cover; */
   background-size: cover;
   padding: 200px 0;
 }
@@ -1305,10 +1305,10 @@ select.form-control:not([size]):not([multiple]) {
 }
 .cta_section {
   background-image: url(../img/end.jpg);
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 0 0;
-  background-size: cover;
+  background-size: cover; */
   padding: 200px 0;
   width: 100%;
 }
